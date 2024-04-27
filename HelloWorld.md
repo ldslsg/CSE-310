@@ -18,7 +18,7 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 
 |Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
 |----------|----------|--------|--------------------------------------------|-------------|
-|4/27/2024 |11:55 AM  |IM      |Hellow World for W01                        |             |
+|4/27/2024 |11:55 AM  |IM      |Hellow World for W01                        |30 min       |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
